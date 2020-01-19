@@ -1,2 +1,2 @@
-# LAVIN_PRADANA-A11.2018.10944-
+# lavinpradana.github.io
 TA PEMROGRAMAN BERBASIS WEB
